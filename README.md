@@ -21,9 +21,7 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 - Data Analysis (CLeaning+EDA)
 - Data Preprocessing.
 - Feature Engineering.
-- Feature Selection 
 - Fit into Algorithm (ML Algorithm)
-- Hyper Parameter Tunning (RandomSearchCV)
 - Dump model (Pickle)
 - Deployed in Streamlit platform
 
