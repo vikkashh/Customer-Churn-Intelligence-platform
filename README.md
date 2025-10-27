@@ -3,6 +3,7 @@
 [![Live Demo](https://img.shields.io/website?url=https%3A%2F%2Fcustomer-churn-intelligence-platformgit-f4ftmrzgrzaetqlbashkwb.streamlit.app&style=for-the-badge&label=Live%20App&logo=streamlit&color=brightgreen)](https://customer-churn-intelligence-platformgit-f4ftmrzgrzaetqlbashkwb.streamlit.app)
 
 Welcome to the **Customer Churn Intelligence Platform**! 🔍 This Streamlit app uses a trained machine learning model to predict customer churn in a telecom environment.
+you can run it by clicking on the link.
 
 ---
 ## OVERVIEW 
