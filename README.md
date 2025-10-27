@@ -27,14 +27,6 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 - Dump model (Pickle)
 - Deployed in Streamlit platform
 
-  # Packages Used
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Imblearn
-
 # Objective
 Predict the customer likely to be Churn or not by using Gradient Boost Classifier and my target is to find customer to be Churn or Not.
 
