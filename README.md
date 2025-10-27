@@ -5,21 +5,10 @@
 Welcome to the **Customer Churn Intelligence Platform**! 🔍 This Streamlit app uses a trained machine learning model to predict customer churn in a telecom environment.
 
 ---
+## OVERVIEW 
+Churn prediction means detecting which customers are likely to cancel a subscription to a service based on how they use the service. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. Once you can identify those customers that are at risk of cancelling, you should know exactly what marketing action to take for each individual customer to maximise the chances that the customer will remain.
 
-## 💡 Overview
 
-This project helps businesses identify customers likely to churn so they can take proactive action.
-
----
-
-## 🚀 Features
-
-- 📈 Interactive customer churn prediction  
-- ⚙️ Pre-trained Random Forest model integration  
-- 📊 Simple and clean Streamlit UI  
-- 🧠 Inputs like Monthly Charges, Tenure, Gender, Contract Type, etc.
-
----
 
 ## 🛠️ Installation
 
