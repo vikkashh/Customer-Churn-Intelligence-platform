@@ -16,6 +16,30 @@ Customer churn is a common problem across businesses in many sectors. If you wan
 - Total number of customer around 7043 but 27% of people to be churn which around 1869 customer from the overall customer,
 - So we need to predict the person who are all wants to be churn.Its very important to that company because they want new customer as well as retain the previous customer to stay in there company.
 
+## Steps involved in Model Deployment
+- Data Analysis (CLeaning+EDA)
+- Data Preprocessing.
+- Feature Engineering.
+- Feature Selection 
+- Fit into Algorithm (ML Algorithm)
+- Hyper Parameter Tunning (RandomSearchCV)
+- Dump model (Pickle)
+- Deployed in Streamlit platform
+
+  # Packages Used
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Imblearn
+
+# Objective
+Predict the customer likely to be Churn or not by using Gradient Boost Classifier and my target is to find customer to be Churn or Not.
+
+
+
+
 
 
 ## 🛠️ Installation
